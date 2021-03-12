@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saikiranbelana
+- 👋 Hi, I’m Saikiran
 - 👀 I’m interested in Web Design and Developing
 - 🌱 I’m currently learning Full Stack Develpoment
 - 💞️ I’m looking to collaborate on ...
