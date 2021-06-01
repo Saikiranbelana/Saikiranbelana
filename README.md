@@ -1,8 +1,11 @@
+---
+<typora-copy-images-to: images
+---
+
 Hello there!
 
-Iam saikiran, Currently learning and Working on Full Stack Development, Going to become an active contibutor to GIT(currenlty exploring).
+Iam **saikiran**, Currently learning and Working on <u>Full Stack Development</u>, Going to become an active contibutor to GIT(currenlty exploring).
 Beside programming, I love playing CS:GO.
-
 
 A bit more about myself:
 • Always working on something cool.
@@ -12,15 +15,24 @@ A bit more about myself:
 
 
 
-
 Connect me here:
+
+<img src="images/github.png" href="https://github.com/saikiranbelana" alt="linkedin" /> >
+
+<img src="images/linkedin.png" href="linkedin.com/in/saikiran-belana-81004613a" alt="linkedin" />
+
+<img src="images/instagram.png" href="https://www.instagram.com/seizetheparallel/" alt="linkedin" style="zoom: 40%;" />
+
+
+
+
 
 
 Technologies and Tools I use:
 
-Nodejs
 
-     
+
+​     
 
 <!---
 Saikiranbelana/Saikiranbelana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
