@@ -1,6 +1,6 @@
 Hello there!
 
-Iam **saikiran**, Currently learning and Working on <u>Full Stack Development</u>, Going to become an active contibutor to GIT(currenlty exploring).
+Iam **saikiran**, Currently learning and Working on <u>Full Stack Development</u> & DevOps, Going to become an active contibutor to GIT(currenlty exploring).
 Beside programming, I love playing CS:GO.
 
 A bit more of myself:
