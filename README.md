@@ -24,7 +24,7 @@ Technologies and Tools I use</b></br>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 
-<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/><img height ="30px" width="30px" src="https://img.icons8.com/dusk/64/000000/docker.png"/><img height ="30px" width="30px" src="https://img.icons8.com/material-outlined/24/000000/arch-linux.png"/><img height ="30px" width="30px" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/>
+<img height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>   <img height ="30px" width="30px" src="https://img.icons8.com/dusk/64/000000/docker.png"/> <img height ="30px" width="30px" src="https://img.icons8.com/material-outlined/24/000000/arch-linux.png"/><img height ="30px" width="30px" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/>
 
 </br>
 
